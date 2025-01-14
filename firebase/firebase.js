@@ -5,14 +5,14 @@ import { getStorage } from "firebase/storage";
 import { getFirestore } from "firebase/firestore";  
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBUKOwKbFGca6TYTL7PIuyUJP77F2IIBLQ",
-  authDomain: "nextjsapp-15781.firebaseapp.com",
-  projectId: "nextjsapp-15781",
-  storageBucket: "nextjsapp-15781.appspot.com",
-  messagingSenderId: "320912514538",
-  appId: "1:320912514538:web:0bf1d79a714e45ec28e693"
+  apiKey: "AIzaSyBMUhJ4q1wiRpGDPMbCZOGnT7NrZY95Nss",
+  authDomain: "chat-application-af297.firebaseapp.com",
+  projectId: "chat-application-af297",
+  storageBucket: "chat-application-af297.firebasestorage.app",
+  messagingSenderId: "345400668878",
+  appId: "1:345400668878:web:2ba921a4b7e3bd3522569f",
+  measurementId: "G-WHT8M3ZQHG"
 };
-
 const app = initializeApp(firebaseConfig);
 
 export const auth =  getAuth(app); 
