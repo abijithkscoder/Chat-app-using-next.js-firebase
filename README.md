@@ -1,6 +1,13 @@
 
 ![Alt text](./screenshots/image.png)
 
+![Alt text](./screenshots/image-2.png)
+
+![Alt text](./screenshots/image-3.png)
+
+![Alt text](./screenshots/image-5.png)
+
+![Alt text](./screenshots/image-4.png)
 
 This is a Next.js project bootstrapped with create-next-app.
 
